@@ -1,0 +1,268 @@
+body
+{
+	margin: 0;
+	background-image: url("../img/fondo.jpg");
+}
+
+#main-content
+{
+	margin: 0;
+	background-color: white;
+	height: 1270px;
+	width: 960px;
+
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+
+#head-content
+{
+	margin: 0;
+	
+	background-image: url("../img/bg.gif");
+	height: 142px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+#logo
+{
+	background-image: url("../img/logo.png");
+	height: 44%;
+	width: 36%;
+	margin-left: 50px;
+	
+}
+
+#blanco
+{
+	height: 30px;
+	width: 30px;
+}
+#blanco2
+{
+	margin: 0:;
+	width: 15px;
+}
+#blancolado
+{
+	height: 30px;
+	width: 30px;
+}
+#negro
+{
+	height: 5px;
+	
+}
+
+
+
+#cleanimg
+{
+	height: 100%;
+	width: 75%;
+
+	margin-left: 50px;
+	
+}
+#featimg
+{
+	height: 50px;
+	width: 66%;
+
+	margin-left: 50px;
+	
+}
+#lineimg
+{
+	height: 4px;
+	width: 90%;
+	margin-left: 50px;
+}
+#wereimg
+{
+	height: 110px;
+	width: 860px;
+
+	margin-left: 50px;
+}
+
+
+#cuadro-content{
+	background-image: url("../img/cuadro.png");
+	height: 300px;
+	width: 250px;
+	margin-left: 50px;
+
+}
+#cuadroblanco{
+	background-color: white;
+	height: 350px;
+	width: 390px;
+	margin-left: 50px;
+}
+
+
+
+.left-content{
+	
+	display: inline-block;
+	margin: 0 5px 0 5px;
+}
+.left-head{
+	float: right;
+	margin-right: 50px;
+	margin-top: 45px;
+
+}
+
+#webimg{
+	height: 45px;
+	width: 130px;
+	margin-left: 18%;
+
+}
+#markeimg{
+	height: 45px;
+	width: 130px;
+	margin-left: 18%;
+}
+#optimizarimg{
+	height: 45px;
+	width: 130px;
+	margin-left: 18%;
+}
+
+#lineacuadroimg{
+	height: 2px;
+	width: 80%;
+	margin-left: 20px;
+}
+.parrafo{
+	color: white;
+	width: 80%;
+	margin-left: 20px;
+	font-family:  Verdana;
+	font: 12px Verdana ;
+}
+.parrafo2{
+	color: white;
+	font-family:  Verdana;
+	font: 15px Verdana ;
+	margin-left: 30px
+}
+.parrafoazul{
+	color: blue;
+	font-family:  Verdana;
+	font: 15px Verdana ;
+	margin-left: 30px
+}
+#cuadrosazules
+{
+	height: 30px;
+	width: 80%;
+	margin-left: 20px;
+}
+#azul{
+	height: 5px;
+	margin-left: 2px;
+}
+
+#fotoimg{
+	height: 100px;
+	width: 300px;
+	margin-left: 50px;
+
+}
+
+#clienteimg{
+	height: 40px;
+	width: 150px;
+
+}
+#foto1{
+	height: 70px;
+	width: 65px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.ana{
+	color: gray;
+	font-family:  Verdana;
+	font: 11px Verdana ;
+	margin-top: -85px;
+	margin-left: 90px;
+}
+.ana1{
+	color: gray;
+	font-family:  Verdana;
+	font: 11px Verdana ;
+	margin-top: 9px;
+	margin-left: 90px;
+}
+.ana2{
+	color: #00FFFF;
+	font-family:  Verdana;
+	font: 12px Verdana ;
+	margin-top: 8px;
+	margin-left: 90px;
+}
+#foto2{
+	height: 70px;
+	width: 65px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.kate{
+	color: gray;
+	font-family:  Verdana;
+	font: 11px Verdana ;
+	margin-top: -85px;
+	margin-left: 90px;
+}
+.copy{
+	color: gray;
+	font-family:  arial;
+	font: 10px Verdana ;
+	margin-left: 50px;
+}
+
+#lineavertical{
+	height: 300px;
+	width: 4px;
+
+}
+.mover{
+	display: inline-block;
+	margin: 5px 5px 5px 10px;
+}
+
+#featuresimg{
+	height: 40px;
+	width: 150px;
+
+
+}
+.yoshi{
+	color: gray;
+	font-family:  Verdana;
+	font: 12px Verdana ;
+
+}
+#imgyoshio{
+	height: 130px;
+	width: 100%;
+}
+.modificar{
+	color: gray;
+	font-family:  Verdana;
+	font: 11px Verdana ;
+}
+.letraaul{
+	color: #00FFFF;
+	font-family:  Verdana;
+	font: 13px Verdana ;
+}
