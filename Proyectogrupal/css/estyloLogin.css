@@ -1,0 +1,124 @@
+body{
+	background-image: url('../css/fondo4.jpg');
+	padding: 0px;
+	margin: 0px;
+}
+
+#div1{
+
+	width  :300px;
+	float: left;
+	margin-top:-400px;
+	margin-left: 930px;
+}
+
+
+.titulo {
+font-family: Century Gothic, sans-serif;
+margin-top:-60px; margin-left:100px;
+color: white;
+
+}
+
+p{
+  font-style:italic;
+  font-weight:bold;
+  font-size:1em;
+  font-color:#ffffff;
+  font-family:'Helvetica','Verdana',sans-serif;
+}
+#mapa{
+	margin-top: 50px;
+	margin-left: 30px;
+	height: 400px;
+	width  :620px;
+		
+}
+#i{
+	
+	height: 100px;
+	width  :120px;
+	margin-top: 10px;
+	border-left: 1px;
+}
+#imagen{
+	background-image: url('linea.png');
+	margin-top: 10px;
+	height: 80px;
+	width  :1365px;
+	margin-left: 0%;
+
+}
+#img{
+	
+	margin-left: 0%;
+}
+#mover{
+	margin-right: 30px;
+	margin-top: -65px;
+	margin-left: 1100px;
+	
+
+}
+
+input:invalid {
+ 
+border: 1px solid red;
+ 
+}
+input:valid {
+ 
+border: 1px solid blue;
+ 
+}
+
+
+#nombre{
+	margin-top: -60px;
+	font-family:Mastoc Personal Use Only, Geneva, sans-serif;
+	color:white;
+	
+}
+#login{
+	margin: 0;
+	margin-right: 100px;
+	margin-left: 60px;
+	margin-top: 200px;
+	color: black;
+	float: right;
+}
+#empresa
+{
+	margin: 0;
+	color: white;
+	
+	margin-right: 150px;
+	margin-left: 120px;
+	margin-top: 40px;
+	float: left;
+	
+}
+
+#divregistro{
+	
+	margin-top: 2	0px;
+	margin-left: 25px;
+	height: 650px;
+	width  :800px;
+	display: inline-block;
+
+}
+#img{
+
+	margin-left:800px; 
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	
+
+}
+.foto{
+	font-family: verdana;
+	font-size: 12pt; 
+	color: white;
+}

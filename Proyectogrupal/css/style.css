@@ -1,0 +1,182 @@
+
+.div-medio{
+	margin-top: 10px;
+	width: 1200px;
+	height: 30px;
+	
+}
+
+.perfil{
+margin: auto;
+display: inline-block;
+float: left;
+margin-left: 50px;	
+}
+.buscar{
+	display: inline-block;
+	margin-left: 100px;
+
+}
+.modificar{
+	display: inline-block;
+	margin-left: 100px;
+	
+}
+.registrarte{
+	display: inline-block;
+	margin-left: 100px;
+	
+}
+.Re-lugares{
+	display: inline-block;
+	margin-left: 100px;
+}
+.mapalupa{
+	display: inline-block;
+	margin-left: 100px;
+
+}
+#div-midle{
+	margin-left: 100px;
+	margin-bottom: 5%;
+	width:1200px;
+	height:1300px;
+	border-right: 1px;
+	border-top: 1px;
+	border-left: 1px;
+	border-bottom: 1px;
+	border-color: #145309;
+	border-style: solid;
+	
+	
+}
+
+#div-arriba{
+	background-image: url('../img/linea.png');
+	border-right: 0px;
+	border-top: 0px;
+	border-left: 0px;
+	border-bottom: 1px;
+	border-color: #145309;
+	border-style: solid;
+	width:100%;
+	height:100px;
+}
+#form-buscar{
+	width: 250px;
+	height:20px;
+	margin-left: 700px;
+	margin-top: -50px;
+}
+#borde-imagenes{
+	border-bottom: 2px;
+	border-top: 2px;
+	border-right: 2px;
+	border-left: 2px;
+	border-color: #145309;
+	border-style: solid;
+
+}
+html{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url("../css/fondo4.jpg") ;
+	
+}
+header h1{
+	margin-left: 10%;
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+}
+header a{
+	width: 50px;
+	margin-left: 50%;
+	display: inline-block;
+	vertical-align: top;
+}
+header a img{
+	width: 100%;
+}
+section{
+	width: 98%;
+	min-height: 500px;
+	padding: 2%;
+	margin:0 auto;
+	margin-left: 2%;
+	margin-top: 10px;
+}
+
+.producto{
+	width: 23%;
+	height: auto;
+	
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 1%;
+	margin-top: 1%;
+	
+	
+	font-size: 2rem;
+	color: #FFFF00;
+	padding: 1%;
+	-webkit-box-shadow: 0px 0px 10px rgba(240, 240, 240, 0.75);
+	-moz-box-shadow:    0px 0px 10px rgba(240, 240, 240, 0.75);
+	box-shadow:         0px 0px 10px rgba(240, 240, 240, 0.75);
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+}
+.producto:hover{
+
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+}
+.producto img{
+	width: 250px;
+	height: 250px;
+	margin:0 auto;
+	border-radius: 80%;
+	-webkit-box-shadow: 0px 0px 10px rgba(74, 74, 74, 0.75);
+	-moz-box-shadow:    0px 0px 10px rgba(74, 74, 74, 0.75);
+	box-shadow:         0px 0px 10px rgba(74, 74, 74, 0.75);
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+}
+.producto img:hover{
+	-webkit-transform: rotate(155deg);
+	-moz-transform: rotate(355deg);
+}
+.producto a{
+	
+	padding: 3px;
+	color: white;
+	width: 50%;
+	padding-left: 50px;
+	padding-right: 50px;
+	
+}
+.enlaceboton {   
+   font-family: verdana, arial, sans-serif; 
+   font-size: 10pt; 
+   font-weight: bold; 
+   padding: 3px; 
+   
+   color: #08088A; 
+   text-decoration: none; 
+}
+.lugardescripcion{
+font-family: verdana;
+	font-size: 15pt; 
+   font-weight: bold; 
+   color: #FFFF00;	
+}
+.descripcion{
+
+	font-family: verdana;
+	font-size: 12pt; 
+   font-weight: bold; 
+   color: white;
+
+}
